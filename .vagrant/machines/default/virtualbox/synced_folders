@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/myproject":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/myproject","hostpath":"/Users/danielteixeira/Code/MyProject","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/danielteixeira/Code/MyProject","disabled":false,"__vagrantfile":true}}}
